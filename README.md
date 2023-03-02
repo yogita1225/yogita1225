@@ -7,8 +7,7 @@
   
   Email- yogitavaishnav21@gmail.com
   
-  Leetcode Profile - leetcode.com/YogitaV_12/
-
+  LeetCode - https://leetcode.com/YogitaV_12/
 <!---
 yogita1225/yogita1225 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
