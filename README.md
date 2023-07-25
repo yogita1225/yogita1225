@@ -8,6 +8,8 @@
   Email- yogitavaishnav21@gmail.com
   
   LeetCode - https://leetcode.com/YogitaV_12/
+
+  Codechef Profile - https://www.codechef.com/users/yogi_v12
 <!---
 yogita1225/yogita1225 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
